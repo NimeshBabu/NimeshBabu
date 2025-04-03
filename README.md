@@ -19,3 +19,13 @@ Here are some ideas to get you started:
 ![GitHub Streak](https://streak-stats.demolab.com/?username=NimeshBabu&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NimeshBabu&layout=compact&theme=dark)
 
+
+
+##Repo Contributions
+![NimeshBabu's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=NimeshBabu&hide=B&theme=dark)
+
+
+## 🐍 Watch my GitHub Contribution Snake
+![Snake Animation](https://github.com/YourUsername/YourUsername/blob/output/github-contribution-grid-snake.svg)
+
+
