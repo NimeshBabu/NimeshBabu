@@ -27,17 +27,24 @@ I am undergraduate student from Amrit Campus (ASCOL). I am studying Bachelors.
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NimeshBabu&show_icons=true&theme=dark)
+
+
+## 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=NimeshBabu&theme=dark&hide_border=true)
 
 
 
-## Top Languages
+
+
+## 🏆Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NimeshBabu&layout=compact&theme=dark)
 
 
 
-## Repo Contributions
+
+## 📦 Repo Contributions
 ![NimeshBabu's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=NimeshBabu&hide=B&theme=dark)
+
 
 
 
