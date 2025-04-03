@@ -24,8 +24,12 @@ Here are some ideas to get you started:
 ##Repo Contributions
 ![NimeshBabu's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=NimeshBabu&hide=B&theme=dark)
 
+## 🎶 Now Playing on Spotify
+![Spotify](https://novatorem.vercel.app/api/spotify)
+
+
 
 ## 🐍 Watch my GitHub Contribution Snake
-![Snake Animation](https://github.com/YourUsername/YourUsername/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/NimeshBabu/NimeshBabu/blob/output/github-contribution-grid-snake.svg)
 
 
