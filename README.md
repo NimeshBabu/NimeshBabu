@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats:
 ![NimeshBabu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NimeshBabu&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NimeshBabu&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NimeshBabu&layout=compact&theme=dark)
+
