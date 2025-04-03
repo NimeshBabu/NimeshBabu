@@ -34,8 +34,7 @@ I am undergraduate student from Amrit Campus (ASCOL). I am studying 5ᵗʰ semes
 ## 📦 Repo Contributions:
 ![NimeshBabu's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=NimeshBabu&hide=B&theme=dark)
 
-## 🎶 Now Playing on Spotify:
-![Spotify](https://novatorem.vercel.app/api/spotify)
+---
 
 
 
