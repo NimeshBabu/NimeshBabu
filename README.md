@@ -2,7 +2,7 @@
 Hi, I'm Nimesh! 🚀 A passionate developer who loves coding, open-source, and building cool projects.
 
 I am undergraduate student from Amrit Campus (ASCOL). I am studying Bachelors.
-Here are some ideas to get you started:
+<br>Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Semester project.
 
@@ -36,6 +36,12 @@ Here are some ideas to get you started:
 
 ## Repo Contributions
 ![NimeshBabu's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=NimeshBabu&hide=B&theme=dark)
+
+## 📬 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile/)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge)](https://yourwebsite.com)
+
 
 ## 🎶 Now Playing on Spotify
 ![Spotify](https://novatorem.vercel.app/api/spotify)
