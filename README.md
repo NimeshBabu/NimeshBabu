@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NimeshBabu&show_icons=true&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com/?username=NimeshBabu&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=NimeshBabu&theme=dark)
+
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NimeshBabu&layout=compact&theme=dark)
