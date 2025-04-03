@@ -1,4 +1,5 @@
-## Hi there 👋 
+## 👋 About Me
+Hi, I'm Nimesh! 🚀 A passionate developer who loves coding, open-source, and building cool projects.
 
 I am undergraduate student from Amrit Campus (ASCOL). I am studying Bachelors.
 Here are some ideas to get you started:
@@ -15,6 +16,6 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NimeshBabu&show_icons=true&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com/?user=NimeshBabu&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?username=NimeshBabu&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NimeshBabu&layout=compact&theme=dark)
 
