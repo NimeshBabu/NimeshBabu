@@ -26,7 +26,7 @@ I am undergraduate student from Amrit Campus (ASCOL). I am studying 5ᵗʰ semes
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NimeshBabu&show_icons=true&theme=dark)
 
 ## 🔥 GitHub Streak:
-![GitHub Streak](https://streak-stats.demolab.com/?user=NimeshBabu&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=NimeshBabu&theme=dark&hide)
 
 ## 🏆 Top Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NimeshBabu&layout=compact&theme=dark)
