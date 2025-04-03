@@ -27,7 +27,8 @@ I am undergraduate student from Amrit Campus (ASCOL). I am studying Bachelors.
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NimeshBabu&show_icons=true&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com/?user=NimeshBabu&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=NimeshBabu&theme=dark&hide_border=true)
+
 
 
 ## Top Languages
