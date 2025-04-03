@@ -1,6 +1,6 @@
-## 👋 About Me
+## 👋 About Me:
 Hi, I'm Nimesh!
-I am undergraduate student from Amrit Campus (ASCOL). I am studying Bachelors.
+I am undergraduate student from Amrit Campus (ASCOL). I am studying 5^th semester Bsc. CSIT.
 
 <br>Here are some ideas to get you started:
 
@@ -22,33 +22,19 @@ I am undergraduate student from Amrit Campus (ASCOL). I am studying Bachelors.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-
-
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NimeshBabu&show_icons=true&theme=dark)
 
-
-## 🔥 GitHub Streak
+## 🔥 GitHub Streak:
 ![GitHub Streak](https://streak-stats.demolab.com/?user=NimeshBabu&theme=dark&hide_border=true)
 
-
-
-
-
-## 🏆Top Languages
+## 🏆 Top Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NimeshBabu&layout=compact&theme=dark)
 
-
-
-
-## 📦 Repo Contributions
+## 📦 Repo Contributions:
 ![NimeshBabu's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=NimeshBabu&hide=B&theme=dark)
 
-
-
-
-## 🎶 Now Playing on Spotify
+## 🎶 Now Playing on Spotify:
 ![Spotify](https://novatorem.vercel.app/api/spotify)
 
 
