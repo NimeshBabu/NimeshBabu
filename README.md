@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## 📊 GitHub Stats:
-![Prajjwol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)
+![NimeshBabu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NimeshBabu&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NimeshBabu&layout=compact)
