@@ -1,6 +1,6 @@
 ## 👋 About Me:
 Hi, I'm Nimesh!
-I am undergraduate student from Amrit Campus (ASCOL). I am studying 5ᵗʰ semester Bsc. CSIT.
+I am undergraduate student from Amrit Campus (ASCOL). I am studying 7ᵗʰ semester Bsc. CSIT.
 
 <br>Here are some ideas to get you started:
 
